@@ -14,3 +14,4 @@
 .glide/
 
 testdata/config.json
+\.DS_Store
