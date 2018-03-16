@@ -10,22 +10,22 @@
 			"revisionTime": "2017-11-26T15:05:34Z"
 		},
 		{
-			"checksumSHA1": "A6T/YIMYM2QVl8C72utF2whDJ+Q=",
+			"checksumSHA1": "PRFfb5hssmb8cr/WPB+bjDeTkLQ=",
 			"path": "github.com/Shopify/sarama",
-			"revision": "3b1b38866a79f06deddf0487d5c27ba0697ccd65",
-			"revisionTime": "2017-12-08T15:07:36Z"
+			"revision": "102a4890dba178dae1472fa23fe6b6e15b501819",
+			"revisionTime": "2018-03-15T15:07:03Z"
 		},
 		{
-			"checksumSHA1": "vWHFC42HW6ao7cJ6ihIyc+hZdVM=",
+			"checksumSHA1": "3V/mWSKTBmzzOKS+m19pAPEzW2U=",
 			"path": "github.com/bsm/sarama-cluster",
-			"revision": "24016d206c730276dfb58f802999066f2f4bfeaa",
-			"revisionTime": "2017-12-19T14:08:14Z"
+			"revision": "d98592677c0aa08d8aafb882d344fb461682b722",
+			"revisionTime": "2018-03-16T07:55:51Z"
 		},
 		{
-			"checksumSHA1": "mrz/kicZiUaHxkyfvC/DyQcr8Do=",
+			"checksumSHA1": "CSPbwbyzqA6sfORicn4HFtIhF/c=",
 			"path": "github.com/davecgh/go-spew/spew",
-			"revision": "ecdeabc65495df2dec95d7c4a4c3e021903035e5",
-			"revisionTime": "2017-10-02T20:02:53Z"
+			"revision": "8991bc29aa16c548c550c7ff78260e27b9ab7c73",
+			"revisionTime": "2018-02-21T22:46:20Z"
 		},
 		{
 			"checksumSHA1": "FbcM2THHHwG+T4WbruyMPUdB1X8=",
@@ -34,10 +34,16 @@
 			"revisionTime": "2017-11-26T15:05:34Z"
 		},
 		{
+			"checksumSHA1": "XmnYB5Ngjy4J0W+GpnpeKfYSGjs=",
+			"path": "github.com/dynamicgo/slf4go",
+			"revision": "baff4259548c37384c203a03ee15ea2bdae006d4",
+			"revisionTime": "2017-11-14T09:20:35Z"
+		},
+		{
 			"checksumSHA1": "y2Kh4iPlgCPXSGTCcFpzePYdzzg=",
 			"path": "github.com/eapache/go-resiliency/breaker",
-			"revision": "b1fe83b5b03f624450823b751b662259ffc6af70",
-			"revisionTime": "2017-06-07T16:36:15Z"
+			"revision": "ef9aaa7ea8bd2448429af1a77cf41b2b3b34bdd6",
+			"revisionTime": "2018-01-01T20:33:13Z"
 		},
 		{
 			"checksumSHA1": "WHl96RVZlOOdF4Lb1OOadMpw8ls=",
@@ -46,16 +52,10 @@
 			"revisionTime": "2016-06-09T14:24:08Z"
 		},
 		{
-			"checksumSHA1": "oCCs6kDanizatplM5e/hX76busE=",
+			"checksumSHA1": "SJhV59StVXLFvLU0l9s0d00nV10=",
 			"path": "github.com/eapache/queue",
-			"revision": "44cc805cf13205b55f69e14bcb69867d1ae92f98",
-			"revisionTime": "2016-08-05T00:47:13Z"
-		},
-		{
-			"checksumSHA1": "/dtdwt1sRwJY3iQYu2hnR+zRzDI=",
-			"path": "github.com/goany/slf4go",
-			"revision": "73ea855627583a86e254d3fbec479b4a69fc5bc5",
-			"revisionTime": "2017-10-12T06:43:31Z"
+			"revision": "093482f3f8ce946c05bcba64badd2c82369e084d",
+			"revisionTime": "2018-02-27T14:14:24Z"
 		},
 		{
 			"checksumSHA1": "p/8vSviYF91gFflhrt5vkyksroo=",
@@ -66,14 +66,14 @@
 		{
 			"checksumSHA1": "ETRtag4/4gwOecAyLHplQYmpC6k=",
 			"path": "github.com/inwecrypto/gomq",
-			"revision": "52e0a010c834d0d321578c72e7efe398c4bf2416",
-			"revisionTime": "2017-11-14T03:21:41Z"
+			"revision": "870403822f70edf7c5328b36dd3c2ab09b1b642b",
+			"revisionTime": "2018-01-01T14:46:32Z"
 		},
 		{
 			"checksumSHA1": "xKzx54LbkghuMauevGWevn5ip3w=",
 			"path": "github.com/pierrec/lz4",
-			"revision": "2fcda4cb7018ce05a25959d2fe08c83e3329f169",
-			"revisionTime": "2017-12-18T19:50:38Z"
+			"revision": "ed8d4cc3b461464e69798080a0092bd028910298",
+			"revisionTime": "2018-01-13T15:17:03Z"
 		},
 		{
 			"checksumSHA1": "zPWRjzsPeXCoqmidIcJtHbvrvRs=",
@@ -85,20 +85,20 @@
 			"checksumSHA1": "zKKp5SZ3d3ycKe4EKMNT0BqAWBw=",
 			"origin": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
 			"path": "github.com/pmezard/go-difflib/difflib",
-			"revision": "890a5c3458b43e6104ff5da8dfa139d013d77544",
-			"revisionTime": "2017-07-05T02:17:15Z"
+			"revision": "87b1dfb5b2fa649f52695dd9eae19abe404a4308",
+			"revisionTime": "2017-12-31T12:27:32Z"
 		},
 		{
-			"checksumSHA1": "6u6M+ydTkWgOlM+UK+wOYnHhpAU=",
+			"checksumSHA1": "oY/QEEFSa+kRKlgeIIAhCOYbnrE=",
 			"path": "github.com/rcrowley/go-metrics",
-			"revision": "e181e095bae94582363434144c61a9653aff6e50",
-			"revisionTime": "2017-11-28T17:04:26Z"
+			"revision": "8732c616f52954686704c8645fe1a9d59e9df7c1",
+			"revisionTime": "2018-01-25T23:19:41Z"
 		},
 		{
-			"checksumSHA1": "mGbTYZ8dHVTiPTTJu3ktp+84pPI=",
+			"checksumSHA1": "uyVU5fRfEK17QZuODRjeZX8zDqg=",
 			"path": "github.com/stretchr/testify/assert",
-			"revision": "890a5c3458b43e6104ff5da8dfa139d013d77544",
-			"revisionTime": "2017-07-05T02:17:15Z"
+			"revision": "87b1dfb5b2fa649f52695dd9eae19abe404a4308",
+			"revisionTime": "2017-12-31T12:27:32Z"
 		}
 	],
 	"rootPath": "github.com/inwecrypto/gomq-kafka"
